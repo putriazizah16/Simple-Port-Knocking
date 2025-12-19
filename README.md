@@ -13,7 +13,7 @@ I use Linux Ubuntu 24.04.3 that runs through Virtualbox.
 I use GNS3 2.2.55.
 - Mikrotik CHR  
 I use CHR 7.20.5.
-- Winbox (optional)
+- Winbox (optional)  
 No need to use if you're more comfortable with CLI.
 
 ## Steps
