@@ -28,7 +28,7 @@ On this exercise, input filter is used because we need to control the connection
 Next, we create the rules for knocking itself. This is my scenario:  
 <img width="191" height="354" alt="image" src="https://github.com/user-attachments/assets/89882f93-02a5-4652-9a9a-e766ba318fc9" />
 
-When knock 3 performs, SSH should be allowed. These are the rules:
+When knock 3 performs, SSH should be allowed. These are the rules:  
 KNOCK 1:
 > /ip firewall filter add action=add-src-to-address-list chain=input protocol=tcp dst-port=7000 address-list=testknock1 timeout=20
 
