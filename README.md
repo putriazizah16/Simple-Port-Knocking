@@ -57,9 +57,9 @@ Because 22 is SSH port. You may check it by running this command:
 
 And try to find SSH. There are also other ports listed.
 
-**The destination ports are all different each knocks. WHy?**  
-Because I want it. ^_^ It's just like an analogy. Let's say there's a port 7000, 7001, 8000. It depends on what we want.
-4. Try the connection 
+**The destination ports are all different each knocks. Why?**  
+Because I want it. ^_^ It's just like an analogy. Let's say there's a port 7000, 7001, 8000. It depends on what we want.  
+4. Try the connection  
 On the Linux Terminal, let's try to access SSH immediately.
 > ssh admin@192.168.1.2
 
