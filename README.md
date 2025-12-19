@@ -65,9 +65,9 @@ On the Linux Terminal, let's try to access SSH immediately.
 
 192.168.1.2 is IP Mikrotik (the router).  
 You must not allowed to access it. Now, try knocking the port first. There are several ways to do it, but this time I use netcat.
-> nc -zv 192.168.1.2 7000 //knock 1
-> nc -zv 192.168.1.2 7001 //knock 2
-> nc -zv 192.168.1.2 8000 //knock 3
+> nc -zv 192.168.1.2 7000 //knock 1  
+> nc -zv 192.168.1.2 7001 //knock 2  
+> nc -zv 192.168.1.2 8000 //knock 3  
 
 Then try access the SSH.
 > ssh admin@192.168.1.2
