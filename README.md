@@ -72,4 +72,4 @@ You must not allowed to access it. Now, try knocking the port first. There are s
 Then try access the SSH.
 > ssh admin@192.168.1.2
 
-Now, you can access the SSH.
+If you can access it, then port knocking works.
